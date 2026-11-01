@@ -1,0 +1,11 @@
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Environment & Data
+*.env
+server/.env
+server/data/db.json
+
